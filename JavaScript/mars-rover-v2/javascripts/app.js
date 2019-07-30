@@ -6,6 +6,7 @@ let rover = {
   y: 0,
   travelLog: []
 };
+// ====================================
 
 function turnLeft(rover){
   switch (rover.direction) {
